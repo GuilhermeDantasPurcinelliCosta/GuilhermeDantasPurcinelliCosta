@@ -3,8 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDantasPurcinelliCosta&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDantasPurcinelliCosta&hide_progress=true)
-
 ### Advanced Degree of Study
 
 ![!Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
